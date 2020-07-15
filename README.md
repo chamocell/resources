@@ -5,7 +5,7 @@ In this repository you can find all resources of Fazt Community to use anywhere.
 
 ## Contributes
 * **Frayni** [GitHub](https://github.com/frayni)
-* **Fede** [GitHub](https://github.com/orgs/faztcommunity/people/Fedeya)
-* **Craig** [GitHub](https://github.com/orgs/faztcommunity/people/leave20)
+* **Fede** [GitHub](https://github.com/Fedeya)
+* **Craig** [GitHub](https://github.com/leave20)
 
 ## [License](./LICENSE)
